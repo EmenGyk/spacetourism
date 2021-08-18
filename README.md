@@ -1,0 +1,2 @@
+# spacetourism
+No adaptiv!!!
